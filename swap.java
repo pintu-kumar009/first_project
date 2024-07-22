@@ -22,7 +22,7 @@ public class swap {
 
          // System.out.println("the highest values throught out the interger is:- " + max);
         
-System.out.println(int.MAXVALUE);
+System.out.println();
 
          }   
 
